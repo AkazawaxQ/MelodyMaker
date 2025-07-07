@@ -25,4 +25,4 @@ Circuit Design;
 Final Output;
 ![image](https://github.com/user-attachments/assets/6715fabd-e714-4688-957b-f9305bd24029)
 
-Code of this project provided below.
+Code of this project provided above.
